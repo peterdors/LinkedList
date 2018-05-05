@@ -3,11 +3,7 @@
 // LinkedList.c
 // =============
 // Linked lists. Supports head removal and tail insertion. Maintains head and
-// tail pointers within a LinkedList struct. Comments are sparse because we
-// covered this in class.
-
-// BUILD FUNCTION THAT SWAPS TWO SPECIFIC NODES IN THE LIST
-
+// tail pointers within a LinkedList struct. 
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
