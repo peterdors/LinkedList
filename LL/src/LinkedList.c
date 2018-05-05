@@ -335,7 +335,7 @@ LinkedList *build_random_list(int n)
 	// inserting n numbers of data into the list
 	for (i = 0; i < n; i++)
 	{
-		// inserts either a 1 or a 0 into the LinkedList.
+		// inserts either a at the head
 		head_insert(list, ret_rand_val(RANDOM_LIST_SIZE));	
 	}
 
